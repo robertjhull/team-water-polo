@@ -1,10 +1,10 @@
-## Project Name
+## Kanban Board & Calendar
 
-This is a little description about your project.
+This is a MERN stack web application that allows users to create Kanban boards and view scheduled tasks on a calendar.
 
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Typescript
 
-**Contributors**: [Hatchways](https://github.com/hatchways) (replace)
+**Contributors**: [Md Tawfiqul Hasan Khan](https://github.com/TawfiqKhan), [Vince Aggrippino](https://github.com/VAggrippino)
 
 ---
 
@@ -25,6 +25,7 @@ This is a little description about your project.
 
 ## Client
 
+
 1. Go into the client directory `cd client`
 2. Run `npm install` to install packages
 3. Run `npm start` to start the client side
@@ -35,8 +36,12 @@ This is a little description about your project.
 
 1. Registration. Users will be able to create a new account using their email and password
 
-![Signup Demo](demo/images/signup.png)
+![loginpage](https://user-images.githubusercontent.com/67487694/130525015-4d309eb5-4b57-497c-bac7-368b48fe2e7c.png)
 
-2. Dashboard. Here is a description about what a user can expect to see
+2. Dashboard. Users can create multiple boards and add columns and tasks.
 
-![Dashboard](demo/images/dashboard.png)
+![dashboard](https://user-images.githubusercontent.com/67487694/130534728-fed3b87b-54d5-4b18-b799-e26e3faa1c12.png)
+
+3. Calendar. User-created cards with dates will be shown on a calendar view.
+
+![calendar](https://user-images.githubusercontent.com/67487694/130534767-cb2f3890-acc9-4700-9978-036bb2684202.png)
